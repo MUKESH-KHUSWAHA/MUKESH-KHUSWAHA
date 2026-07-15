@@ -15,7 +15,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 B.Tech in **Computer Science Engineering** at Maharaja Surajmal Institute of Technology (MSIT), GGSIPU — Batch 2027
-- 📊 Current CGPA: **8.89 / 10.0**
+- 📊 Current CGPA: **8.909 / 10.0**
 - 🌱 Currently sharpening **Data Structures & Algorithms in Java** and building full-stack projects
 - 💼 Actively looking for **SDE / Full Stack roles** and internship opportunities
 - 🛠️ I build with the **MERN stack**, with a growing focus on real-time features and AI integrations
@@ -29,7 +29,7 @@
   <tr>
     <td width="50%" valign="top">
       <h4>🔗 <a href="https://github.com/MUKESH-KHUSWAHA/DevConnect">DevConnect</a></h4>
-      <p>A MERN-based developer social platform with real-time messaging, online presence tracking, and job reference card sharing — built for developers to connect and collaborate.</p>
+      <p>A MERN-based developer social platform with a post feed for code snippet sharing, real-time chat, live presence tracking, and an AI-powered code review feature using the Groq API (LLaMA 3).</p>
       <p>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
@@ -40,16 +40,16 @@
       <a href="https://dev-connect-4akd.vercel.app/">🔴 Live Demo</a> · <a href="https://github.com/MUKESH-KHUSWAHA/DevConnect">⭐ GitHub</a>
     </td>
     <td width="50%" valign="top">
-      <h4>💰 <a href="https://github.com/MUKESH-KHUSWAHA/expense-tracker">Expense Tracker</a></h4>
-      <p>A MERN-based expense tracker with secure auth and AI-generated spending insights via the Groq API — turns raw transactions into plain-language financial summaries.</p>
+      <h4>💰 <a href="https://github.com/MUKESH-KHUSWAHA/Vaultly">Vaultly</a></h4>
+      <p>An AI-powered personal finance platform for multi-account expense tracking, budgeting, and analytics — with automated receipt scanning via Google Gemini AI to eliminate manual data entry.</p>
       <p>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" />
       </p>
-      <a href="https://expense-tracker-nine-pearl-63.vercel.app/dashboard">🔴 Live Demo</a> · <a href="https://github.com/MUKESH-KHUSWAHA/expense-tracker">⭐ GitHub</a>
+      <a href="https://vaultly-ecru.vercel.app">🔴 Live Demo</a> · <a href="https://github.com/MUKESH-KHUSWAHA/Vaultly">⭐ GitHub</a>
     </td>
   </tr>
 </table>
@@ -89,7 +89,7 @@
 - 🏅 Technical Society Member, **Geek Room** (DSA Department)
 - ⚔️ Active participant in DSA contests and collaborative problem-solving sessions
 - 🎓 Completed the **SWAYAM Programming in Python** course
-- ⭐ Maintaining a CGPA of **8.89/10** in B.Tech CSE while building full-stack production projects
+- ⭐ Maintaining a CGPA of **8.909/10** in B.Tech CSE while building full-stack production projects
 
 ---
 
